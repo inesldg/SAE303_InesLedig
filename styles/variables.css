@@ -1,0 +1,349 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&display=swap');
+
+:root {
+    /* Couleurs */
+    --blanc: #ffffff;
+    --noir: #030303;
+    --rouge: #b01212;
+
+    /* Textes */
+    --texte: "DM Sans";
+    --sizelittle: 16px;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+
+html,
+body {
+    font-family: var(--texte);
+    color: var(--blanc);
+    line-height: 1.6;
+    overflow-x: hidden;
+    background-color: var(--noir);
+}
+
+p {
+    font-size: var(--sizelittle);
+}
+
+h1 {
+    font-size: 84px;
+}
+
+/* Style du header */
+
+.header {
+    background-color: var(--noir);
+    padding: 0px 5px;
+    display: flex;
+    justify-content: space-between;
+    border-bottom: solid 1px #ffffff6d;
+    position: fixed;
+    z-index: 999;
+    width: 100%;
+    top: 0;
+    align-items: center;
+    transition: all 0.3s ease;
+}
+
+.header.scrolled {
+    background: transparent;
+    padding: 6px;
+    text-align: left;
+    font-size: 8px;
+    border: none;
+
+    .nav {
+        display: none;
+    }
+
+    .logo {
+        display: none;
+    }
+}
+
+.logo {
+    font-size: 1.5em;
+    margin: 10px;
+    display: inline-block;
+    font-family: var(--texte);
+}
+
+nav,
+a {
+    text-decoration: none;
+    color: var(--blanc);
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.nav ul,
+.nav li {
+    margin: -16px;
+}
+
+.nav li {
+    display: inline-block;
+    margin: 30px;
+}
+
+/* Style du bouton animé du header */
+
+.animated-button {
+    margin-right: 20px;
+    position: relative;
+    display: flex;
+    align-items: center;
+    gap: 4px;
+    padding: 6px 40px;
+    border: 4px solid;
+    border-color: transparent;
+    font-size: 16px;
+    background-color: inherit;
+    border-radius: 100px;
+    font-weight: bold;
+    color: var(--rouge);
+    box-shadow: 0 0 0 2px var(--rouge);
+    cursor: pointer;
+    overflow: hidden;
+    transition: all 0.6s cubic-bezier(0.23, 1, 0.32, 1);
+}
+
+.animated-button svg {
+    position: absolute;
+    width: 24px;
+    fill: var(--rouge);
+    z-index: 9;
+    transition: all 0.8s cubic-bezier(0.23, 1, 0.32, 1);
+}
+
+.animated-button .arr-1 {
+    right: 16px;
+}
+
+.animated-button .arr-2 {
+    left: -25%;
+}
+
+.animated-button .circle {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 20px;
+    height: 20px;
+    background-color: var(--rouge);
+    border-radius: 50%;
+    opacity: 0;
+    transition: all 0.8s cubic-bezier(0.23, 1, 0.32, 1);
+}
+
+.animated-button .text {
+    position: relative;
+    z-index: 1;
+    transform: translateX(-12px);
+    transition: all 0.8s cubic-bezier(0.23, 1, 0.32, 1);
+    white-space: nowrap;
+}
+
+.animated-button:hover {
+    box-shadow: 0 0 0 12px transparent;
+    color: #212121;
+    border-radius: 16px;
+}
+
+.animated-button:hover .arr-1 {
+    right: -25%;
+}
+
+.animated-button:hover .arr-2 {
+    left: 16px;
+}
+
+.animated-button:hover .text {
+    transform: translateX(12px);
+}
+
+.animated-button:hover svg {
+    fill: #212121;
+}
+
+.animated-button:active {
+    scale: 0.95;
+    box-shadow: 0 0 0 4px var(--rouge);
+}
+
+.animated-button:hover .circle {
+    width: 220px;
+    height: 220px;
+    opacity: 1;
+}
+
+/* Effet de barre en dessous des liens au hover */
+
+.header .btn {
+    position: relative;
+    text-decoration: none;
+    color: var(--blanc);
+}
+
+.header .btn::after {
+    content: "";
+    position: absolute;
+    left: 0;
+    bottom: -5px;
+    width: 0;
+    height: 2px;
+    background: var(--rouge);
+    transition: width 0.3s ease;
+}
+
+.header .btn:hover::after {
+    width: 100%;
+}
+
+
+/* Style du footer */
+.site-footer {
+    background-color: var(--noir);
+    color: var(--blanc);
+    padding: 60px 20px 20px 20px;
+    font-family: var(--texte);
+    box-shadow: inset 0 10px 30px rgba(255, 0, 0, 0.1);
+    
+}
+
+.footer-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1400px;
+    margin: 0 auto;
+    gap: 40px;
+    flex-wrap: wrap;
+}
+
+.footer-section {
+    flex: 1;
+    min-width: 240px;
+
+    img {
+        width: 64%;
+    }
+
+    p {
+        font-weight: bold;
+    }
+}
+
+.footer-section h3 {
+    color: var(--rouge);
+    font-size: 22px;
+    margin-bottom: 16px;
+    text-shadow: 0 0 8px var(--rouge);
+}
+
+.footer-section p,
+.footer-section ul {
+    font-size: 16px;
+    line-height: 1.6;
+}
+
+.footer-section ul {
+    list-style: none;
+    padding: 0;
+}
+
+.footer-section ul li {
+    margin-bottom: 12px;
+}
+
+.footer-section ul li a {
+    color: var(--blanc);
+    text-decoration: none;
+    transition: color 0.25s ease;
+}
+
+.footer-section ul li a:hover {
+    color: var(--rouge);
+}
+
+.footer-bottom {
+    text-align: center;
+    margin-top: 40px;
+    font-size: 14px;
+    color: rgba(255, 255, 255, 0.6);
+}
+
+
+
+@media (max-width: 768px) {
+
+    body {
+        overflow-x: hidden;
+    }
+
+    h1 {
+        font-size: 48px;
+        text-align: center;
+    }
+
+    h2 {
+        font-size: 16px;
+    }
+
+    p {
+        font-size: 14px;
+    }
+
+    /* Header */
+
+    .header {
+        padding: 10px;
+    }
+
+    .logo {
+        font-size: 1.2em;
+        margin: 5px;
+    }
+
+    .nav {
+        display: none;
+    }
+
+    .animated-button {
+        padding: 6px 24px;
+        font-size: 14px;
+        margin-right: 10px;
+    }
+
+    /* Footer */
+
+    .footer-container {
+        flex-direction: column;
+        text-align: center;
+        gap: 30px;
+    }
+
+    .footer-section {
+        min-width: 100%;
+    }
+
+    .footer-section img {
+        width: 20%;
+        margin: 0 auto;
+    }
+
+    .footer-section h3 {
+        font-size: 20px;
+    }
+
+    .footer-bottom {
+        font-size: 12px;
+    }
+}

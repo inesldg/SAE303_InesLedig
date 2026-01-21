@@ -1,0 +1,1352 @@
+{
+    "structure_public(%)": {
+        "genre": [
+            {
+                "Année": 2015,
+                "Femme": 51.3,
+                "Homme": 48.7,
+                "Total": 100
+            },
+            {
+                "Année": 2016,
+                "Femme": 51.6,
+                "Homme": 48.4,
+                "Total": 100
+            },
+            {
+                "Année": 2017,
+                "Femme": 51.3,
+                "Homme": 48.7,
+                "Total": 100
+            },
+            {
+                "Année": 2018,
+                "Femme": 51.9,
+                "Homme": 48.1,
+                "Total": 100
+            },
+            {
+                "Année": 2019,
+                "Femme": 52.5,
+                "Homme": 47.5,
+                "Total": 100
+            },
+            {
+                "Année": 2020,
+                "Femme": 51.7,
+                "Homme": 48.3,
+                "Total": 100
+            },
+            {
+                "Année": 2021,
+                "Femme": 51.5,
+                "Homme": 48.5,
+                "Total": 100
+            },
+            {
+                "Année": 2022,
+                "Femme": 53.3,
+                "Homme": 46.7,
+                "Total": 100
+            },
+            {
+                "Année": 2023,
+                "Femme": 53.2,
+                "Homme": 46.8,
+                "Total": 100
+            },
+            {
+                "Année": 2024,
+                "Femme": 53.3,
+                "Homme": 46.7,
+                "Total": 100
+            }
+        ],
+        "age": [
+            {
+                "Année": 2015,
+                "3/10 ans": 11.3,
+                "11/14 ans": 6.4,
+                "15/19 ans": 8.1,
+                "20/24 ans": 7.3,
+                "25/34 ans": 14.1,
+                "35/49 ans": 21.6,
+                "50/59 ans": 12.8,
+                "60 ans et +": 18.4,
+                "Total": 100
+            },
+            {
+                "Année": 2016,
+                "3/10 ans": 11.5,
+                "11/14 ans": 6.3,
+                "15/19 ans": 8,
+                "20/24 ans": 6.7,
+                "25/34 ans": 13.3,
+                "35/49 ans": 21.6,
+                "50/59 ans": 12.5,
+                "60 ans et +": 20.1,
+                "Total": 100
+            },
+            {
+                "Année": 2017,
+                "3/10 ans": 11.8,
+                "11/14 ans": 6.5,
+                "15/19 ans": 8.1,
+                "20/24 ans": 7.1,
+                "25/34 ans": 14,
+                "35/49 ans": 21.8,
+                "50/59 ans": 12.3,
+                "60 ans et +": 18.5,
+                "Total": 100
+            },
+            {
+                "Année": 2018,
+                "3/10 ans": 11,
+                "11/14 ans": 6.7,
+                "15/19 ans": 8.2,
+                "20/24 ans": 7.2,
+                "25/34 ans": 12.8,
+                "35/49 ans": 21.3,
+                "50/59 ans": 13.2,
+                "60 ans et +": 19.7,
+                "Total": 100
+            },
+            {
+                "Année": 2019,
+                "3/10 ans": 11.7,
+                "11/14 ans": 6.6,
+                "15/19 ans": 8.1,
+                "20/24 ans": 6.6,
+                "25/34 ans": 12.6,
+                "35/49 ans": 22.2,
+                "50/59 ans": 12.7,
+                "60 ans et +": 19.5,
+                "Total": 100
+            },
+            {
+                "Année": 2020,
+                "3/10 ans": 11,
+                "11/14 ans": 7.6,
+                "15/19 ans": 8.4,
+                "20/24 ans": 7,
+                "25/34 ans": 12.3,
+                "35/49 ans": 19.8,
+                "50/59 ans": 12.5,
+                "60 ans et +": 21.2,
+                "Total": 100
+            },
+            {
+                "Année": 2021,
+                "3/10 ans": 12.2,
+                "11/14 ans": 7.2,
+                "15/19 ans": 9.2,
+                "20/24 ans": 8.4,
+                "25/34 ans": 12.5,
+                "35/49 ans": 20.2,
+                "50/59 ans": 11.7,
+                "60 ans et +": 18.5,
+                "Total": 100
+            },
+            {
+                "Année": 2022,
+                "3/10 ans": 10.8,
+                "11/14 ans": 6.6,
+                "15/19 ans": 8.5,
+                "20/24 ans": 7.2,
+                "25/34 ans": 12.6,
+                "35/49 ans": 20.1,
+                "50/59 ans": 13.4,
+                "60 ans et +": 20.7,
+                "Total": 100
+            },
+            {
+                "Année": 2023,
+                "3/10 ans": 10.7,
+                "11/14 ans": 6.4,
+                "15/19 ans": 8.7,
+                "20/24 ans": 7.8,
+                "25/34 ans": 13.4,
+                "35/49 ans": 19.8,
+                "50/59 ans": 11.5,
+                "60 ans et +": 21.7,
+                "Total": 100
+            },
+            {
+                "Année": 2024,
+                "3/10 ans": 10.6,
+                "11/14 ans": 6.7,
+                "15/19 ans": 8.4,
+                "20/24 ans": 7.6,
+                "25/34 ans": 12.2,
+                "35/49 ans": 20.6,
+                "50/59 ans": 12.8,
+                "60 ans et +": 21.1,
+                "Total": 100
+            }
+        ],
+        "csp": [
+            {
+                "Année": 2015,
+                "CSP+": 25.8,
+                "Chefs / cadres": 9.8,
+                "Professions intermédiaires": 13.3,
+                "Artisans / commerçants": 2.6,
+                "CSP-": 23.2,
+                "Employés": 14.0,
+                "Ouvriers": 8.8,
+                "Agriculteurs": 0.4,
+                "Inactifs": 51.1,
+                "Retraités": 14.1,
+                "Élèves / étudiants": 30.1,
+                "Autres inactifs": 6.9,
+                "total": 100
+            },
+            {
+                "Année": 2016,
+                "CSP+": 25.9,
+                "Chefs / cadres": 9.5,
+                "Professions intermédiaires": 13.3,
+                "Artisans / commerçants": 3.1,
+                "CSP-": 24.4,
+                "Employés": 14.5,
+                "Ouvriers": 9.3,
+                "Agriculteurs": 0.5,
+                "Inactifs": 49.7,
+                "Retraités": 16.8,
+                "Élèves / étudiants": 27.3,
+                "Autres inactifs": 5.6,
+                "total": 100
+            },
+            {
+                "Année": 2017,
+                "CSP+": 26.6,
+                "Chefs / cadres": 9.6,
+                "Professions intermédiaires": 14.3,
+                "Artisans / commerçants": 2.6,
+                "CSP-": 23.8,
+                "Employés": 14.1,
+                "Ouvriers": 8.9,
+                "Agriculteurs": 0.8,
+                "Inactifs": 49.6,
+                "Retraités": 16.3,
+                "Élèves / étudiants": 27.5,
+                "Autres inactifs": 5.8,
+                "total": 100
+            },
+            {
+                "Année": 2018,
+                "CSP+": 26.9,
+                "Chefs / cadres": 9.9,
+                "Professions intermédiaires": 13.9,
+                "Artisans / commerçants": 3.1,
+                "CSP-": 23.1,
+                "Employés": 13.8,
+                "Ouvriers": 8.5,
+                "Agriculteurs": 0.7,
+                "Inactifs": 50.0,
+                "Retraités": 17.0,
+                "Élèves / étudiants": 27.5,
+                "Autres inactifs": 5.5,
+                "total": 100
+            },
+            {
+                "Année": 2019,
+                "CSP+": 27.1,
+                "Chefs / cadres": 10.1,
+                "Professions intermédiaires": 14.0,
+                "Artisans / commerçants": 3.0,
+                "CSP-": 22.2,
+                "Employés": 13.7,
+                "Ouvriers": 8.0,
+                "Agriculteurs": 0.5,
+                "Inactifs": 50.7,
+                "Retraités": 16.7,
+                "Élèves / étudiants": 27.1,
+                "Autres inactifs": 6.9,
+                "total": 100
+            },
+            {
+                "Année": 2020,
+                "CSP+": 27.2,
+                "Chefs / cadres": 10.7,
+                "Professions intermédiaires": 13.9,
+                "Artisans / commerçants": 2.6,
+                "CSP-": 21.4,
+                "Employés": 13.0,
+                "Ouvriers": 8.0,
+                "Agriculteurs": 0.4,
+                "Inactifs": 51.4,
+                "Retraités": 17.8,
+                "Élèves / étudiants": 27.9,
+                "Autres inactifs": 5.8,
+                "total": 100
+            },
+            {
+                "Année": 2021,
+                "CSP+": 27.8,
+                "Chefs / cadres": 11.6,
+                "Professions intermédiaires": 13.4,
+                "Artisans / commerçants": 2.9,
+                "CSP-": 19.8,
+                "Employés": 12.1,
+                "Ouvriers": 7.1,
+                "Agriculteurs": 0.6,
+                "Inactifs": 52.4,
+                "Retraités": 15.6,
+                "Élèves / étudiants": 31.0,
+                "Autres inactifs": 5.9,
+                "total": 100
+            },
+            {
+                "Année": 2022,
+                "CSP+": 27.2,
+                "Chefs / cadres": 11.1,
+                "Professions intermédiaires": 13.7,
+                "Artisans / commerçants": 2.4,
+                "CSP-": 20.9,
+                "Employés": 12.9,
+                "Ouvriers": 7.7,
+                "Agriculteurs": 0.2,
+                "Inactifs": 51.9,
+                "Retraités": 18.0,
+                "Élèves / étudiants": 27.0,
+                "Autres inactifs": 6.9,
+                "total": 100
+            },
+            {
+                "Année": 2023,
+                "CSP+": 27.2,
+                "Chefs / cadres": 11.0,
+                "Professions intermédiaires": 13.8,
+                "Artisans / commerçants": 2.4,
+                "CSP-": 21.0,
+                "Employés": 12.9,
+                "Ouvriers": 7.6,
+                "Agriculteurs": 0.5,
+                "Inactifs": 51.7,
+                "Retraités": 18.5,
+                "Élèves / étudiants": 27.3,
+                "Autres inactifs": 6.0,
+                "total": 100
+            },
+            {
+                "Année": 2024,
+                "CSP+": 27.8,
+                "Chefs / cadres": 11.0,
+                "Professions intermédiaires": 14.5,
+                "Artisans / commerçants": 2.3,
+                "CSP-": 22.4,
+                "Employés": 13.5,
+                "Ouvriers": 8.3,
+                "Agriculteurs": 0.6,
+                "Inactifs": 49.8,
+                "Retraités": 15.8,
+                "Élèves / étudiants": 28.0,
+                "Autres inactifs": 6.0,
+                "total": 100
+            }
+        ],
+        "habitat": [
+            {
+                "Année": 2015,
+                "zones rurales": 19.8,
+                "agglo <20k": 17.7,
+                "agglo 20-50k": 5.8,
+                "agglo 50-100k": 6.6,
+                "agglo >100k": 31.8,
+                "agglomération parisienne": 18.2,
+                "total": 100
+            },
+            {
+                "Année": 2016,
+                "zones rurales": 20.8,
+                "agglo <20k": 18.1,
+                "agglo 20-50k": 6.1,
+                "agglo 50-100k": 7.2,
+                "agglo >100k": 30.2,
+                "agglomération parisienne": 17.6,
+                "total": 100
+            },
+            {
+                "Année": 2017,
+                "zones rurales": 21.5,
+                "agglo <20k": 16.9,
+                "agglo 20-50k": 6.4,
+                "agglo 50-100k": 7.1,
+                "agglo >100k": 30.0,
+                "agglomération parisienne": 18.1,
+                "total": 100
+            },
+            {
+                "Année": 2018,
+                "zones rurales": 21.2,
+                "agglo <20k": 17.7,
+                "agglo 20-50k": 6.0,
+                "agglo 50-100k": 6.8,
+                "agglo >100k": 30.2,
+                "agglomération parisienne": 18.0,
+                "total": 100
+            },
+            {
+                "Année": 2019,
+                "zones rurales": 22.2,
+                "agglo <20k": 17.5,
+                "agglo 20-50k": 6.2,
+                "agglo 50-100k": 6.4,
+                "agglo >100k": 29.3,
+                "agglomération parisienne": 18.4,
+                "total": 100
+            },
+            {
+                "Année": 2020,
+                "zones rurales": 20.3,
+                "agglo <20k": 16.4,
+                "agglo 20-50k": 6.1,
+                "agglo 50-100k": 6.2,
+                "agglo >100k": 30.6,
+                "agglomération parisienne": 20.4,
+                "total": 100
+            },
+            {
+                "Année": 2021,
+                "zones rurales": 19.9,
+                "agglo <20k": 16.2,
+                "agglo 20-50k": 5.9,
+                "agglo 50-100k": 7.4,
+                "agglo >100k": 32.2,
+                "agglomération parisienne": 18.3,
+                "total": 100
+            },
+            {
+                "Année": 2022,
+                "zones rurales": 19.3,
+                "agglo <20k": 18.1,
+                "agglo 20-50k": 5.4,
+                "agglo 50-100k": 7.3,
+                "agglo >100k": 31.0,
+                "agglomération parisienne": 18.9,
+                "total": 100
+            },
+            {
+                "Année": 2023,
+                "zones rurales": 19.4,
+                "agglo <20k": 17.5,
+                "agglo 20-50k": 5.9,
+                "agglo 50-100k": 7.5,
+                "agglo >100k": 31.6,
+                "agglomération parisienne": 18.1,
+                "total": 100
+            },
+            {
+                "Année": 2024,
+                "zones rurales": 20.2,
+                "agglo <20k": 16.9,
+                "agglo 20-50k": 6.0,
+                "agglo 50-100k": 7.3,
+                "agglo >100k": 31.1,
+                "agglomération parisienne": 18.4,
+                "total": 100
+            }
+        ]
+    },
+    "taux_penetration(%)": {
+        "genre": [
+            {
+                "Année": 2015,
+                "Femme": 68.5,
+                "Homme": 69.4,
+                "Total": 68.9
+            },
+            {
+                "Année": 2016,
+                "Femme": 67.7,
+                "Homme": 67.8,
+                "Total": 67.8
+            },
+            {
+                "Année": 2017,
+                "Femme": 67.2,
+                "Homme": 68.2,
+                "Total": 67.7
+            },
+            {
+                "Année": 2018,
+                "Femme": 65.5,
+                "Homme": 65.1,
+                "Total": 65.3
+            },
+            {
+                "Année": 2019,
+                "Femme": 69.3,
+                "Homme": 67.3,
+                "Total": 68.4
+            },
+            {
+                "Année": 2020,
+                "Femme": 43.6,
+                "Homme": 43.7,
+                "Total": 43.6
+            },
+            {
+                "Année": 2021,
+                "Femme": 51.3,
+                "Homme": 51.6,
+                "Total": 51.4
+            },
+            {
+                "Année": 2022,
+                "Femme": 64.5,
+                "Homme": 60.4,
+                "Total": 62.5
+            },
+            {
+                "Année": 2023,
+                "Femme": 65.7,
+                "Homme": 61.5,
+                "Total": 63.7
+            },
+            {
+                "Année": 2024,
+                "Femme": 67.0,
+                "Homme": 62.6,
+                "Total": 64.9
+            }
+        ],
+        "age": [
+            {
+                "Année": 2015,
+                "3/10 ans": 76.1,
+                "11/14 ans": 84.8,
+                "15/19 ans": 90.2,
+                "20/24 ans": 88.6,
+                "25/34 ans": 79.0,
+                "35/49 ans": 73.8,
+                "50/59 ans": 64.0,
+                "60 ans et +": 48.0,
+                "Total": 68.9
+            },
+            {
+                "Année": 2016,
+                "3/10 ans": 78.3,
+                "11/14 ans": 86.2,
+                "15/19 ans": 88.4,
+                "20/24 ans": 77.8,
+                "25/34 ans": 72.4,
+                "35/49 ans": 72.3,
+                "50/59 ans": 61.6,
+                "60 ans et +": 51.1,
+                "Total": 67.8
+            },
+            {
+                "Année": 2017,
+                "3/10 ans": 79.1,
+                "11/14 ans": 85.8,
+                "15/19 ans": 86.2,
+                "20/24 ans": 83.0,
+                "25/34 ans": 77.3,
+                "35/49 ans": 73.6,
+                "50/59 ans": 61.1,
+                "60 ans et +": 46.8,
+                "Total": 67.7
+            },
+            {
+                "Année": 2018,
+                "3/10 ans": 72.2,
+                "11/14 ans": 86.5,
+                "15/19 ans": 85.0,
+                "20/24 ans": 80.8,
+                "25/34 ans": 69.0,
+                "35/49 ans": 69.9,
+                "50/59 ans": 63.2,
+                "60 ans et +": 47.1,
+                "Total": 65.3
+            },
+            {
+                "Année": 2019,
+                "3/10 ans": 81.6,
+                "11/14 ans": 88.2,
+                "15/19 ans": 87.3,
+                "20/24 ans": 78.5,
+                "25/34 ans": 72.2,
+                "35/49 ans": 76.7,
+                "50/59 ans": 64.1,
+                "60 ans et +": 48.1,
+                "Total": 68.3
+            },
+            {
+                "Année": 2020,
+                "3/10 ans": 49.5,
+                "11/14 ans": 64.3,
+                "15/19 ans": 58.2,
+                "20/24 ans": 52.4,
+                "25/34 ans": 45.2,
+                "35/49 ans": 44.2,
+                "50/59 ans": 40.6,
+                "60 ans et +": 33.0,
+                "Total": 43.6
+            },
+            {
+                "Année": 2021,
+                "3/10 ans": 66.0,
+                "11/14 ans": 72.2,
+                "15/19 ans": 73.9,
+                "20/24 ans": 72.3,
+                "25/34 ans": 54.6,
+                "35/49 ans": 53.4,
+                "50/59 ans": 44.6,
+                "60 ans et +": 33.7,
+                "Total": 51.4
+            },
+            {
+                "Année": 2022,
+                "3/10 ans": 72.0,
+                "11/14 ans": 80.2,
+                "15/19 ans": 83.5,
+                "20/24 ans": 74.7,
+                "25/34 ans": 67.2,
+                "35/49 ans": 65.4,
+                "50/59 ans": 61.7,
+                "60 ans et +": 45.5,
+                "Total": 62.5
+            },
+            {
+                "Année": 2023,
+                "3/10 ans": 74.3,
+                "11/14 ans": 78.9,
+                "15/19 ans": 86.7,
+                "20/24 ans": 82.9,
+                "25/34 ans": 72.5,
+                "35/49 ans": 65.9,
+                "50/59 ans": 54.1,
+                "60 ans et +": 47.9,
+                "Total": 63.7
+            },
+            {
+                "Année": 2024,
+                "3/10 ans": 75.1,
+                "11/14 ans": 84.5,
+                "15/19 ans": 84.8,
+                "20/24 ans": 82.4,
+                "25/34 ans": 67.2,
+                "35/49 ans": 69.7,
+                "50/59 ans": 61.6,
+                "60 ans et +": 47.5,
+                "Total": 64.9
+            }
+        ],
+        "csp": [
+            {
+                "Année": 2015,
+                "CSP+": 81.5,
+                "Chefs / cadres": 85.7,
+                "Professions intermédiaires": 80.7,
+                "Artisans / commerçants": 71.4,
+                "CSP-": 65.8,
+                "Employés": 72.5,
+                "Ouvriers": 59.6,
+                "Agriculteurs": 32.6,
+                "Inactifs": 65.3,
+                "Retraités": 47.1,
+                "Élèves / étudiants": 83.2,
+                "Autres inactifs": 56.7,
+                "total": 68.9
+            },
+            {
+                "Année": 2016,
+                "CSP+": 78.8,
+                "Chefs / cadres": 84.5,
+                "Professions intermédiaires": 76.7,
+                "Artisans / commerçants": 72.3,
+                "CSP-": 65.5,
+                "Employés": 71.8,
+                "Ouvriers": 58.4,
+                "Agriculteurs": 50.0,
+                "Inactifs": 64.2,
+                "Retraités": 49.4,
+                "Élèves / étudiants": 83.4,
+                "Autres inactifs": 52.4,
+                "total": 67.8
+            },
+            {
+                "Année": 2017,
+                "CSP+": 79.5,
+                "Chefs / cadres": 82.1,
+                "Professions intermédiaires": 82.6,
+                "Artisans / commerçants": 60.3,
+                "CSP-": 66.5,
+                "Employés": 72.3,
+                "Ouvriers": 58.6,
+                "Agriculteurs": 72.1,
+                "Inactifs": 63.2,
+                "Retraités": 46.5,
+                "Élèves / étudiants": 83.4,
+                "Autres inactifs": 55.5,
+                "total": 67.7
+            },
+            {
+                "Année": 2018,
+                "CSP+": 77.8,
+                "Chefs / cadres": 81.9,
+                "Professions intermédiaires": 77.7,
+                "Artisans / commerçants": 67.5,
+                "CSP-": 62.2,
+                "Employés": 68.5,
+                "Ouvriers": 54.2,
+                "Agriculteurs": 60.0,
+                "Inactifs": 61.4,
+                "Retraités": 47.0,
+                "Élèves / étudiants": 80.3,
+                "Autres inactifs": 50.1,
+                "total": 65.3
+            },
+            {
+                "Année": 2019,
+                "CSP+": 80.4,
+                "Chefs / cadres": 83.5,
+                "Professions intermédiaires": 81.0,
+                "Artisans / commerçants": 68.9,
+                "CSP-": 65.2,
+                "Employés": 71.0,
+                "Ouvriers": 57.9,
+                "Agriculteurs": 53.3,
+                "Inactifs": 64.6,
+                "Retraités": 48.0,
+                "Élèves / étudiants": 85.4,
+                "Autres inactifs": 57.6,
+                "total": 68.3
+            },
+            {
+                "Année": 2020,
+                "CSP+": 50.6,
+                "Chefs / cadres": 53.5,
+                "Professions intermédiaires": 51.8,
+                "Artisans / commerçants": 37.8,
+                "CSP-": 41.3,
+                "Employés": 44.0,
+                "Ouvriers": 38.4,
+                "Agriculteurs": 27.1,
+                "Inactifs": 41.6,
+                "Retraités": 32.4,
+                "Élèves / étudiants": 55.8,
+                "Autres inactifs": 30.6,
+                "total": 43.6
+            },
+            {
+                "Année": 2021,
+                "CSP+": 59.7,
+                "Chefs / cadres": 65.1,
+                "Professions intermédiaires": 58.4,
+                "Artisans / commerçants": 48.5,
+                "CSP-": 47.2,
+                "Employés": 51.1,
+                "Ouvriers": 41.6,
+                "Agriculteurs": 48.9,
+                "Inactifs": 49.4,
+                "Retraités": 32.8,
+                "Élèves / étudiants": 73.3,
+                "Autres inactifs": 36.2,
+                "total": 51.4
+            },
+            {
+                "Année": 2022,
+                "CSP+": 71.1,
+                "Chefs / cadres": 75.8,
+                "Professions intermédiaires": 72.8,
+                "Artisans / commerçants": 50.2,
+                "CSP-": 60.6,
+                "Employés": 66.4,
+                "Ouvriers": 54.9,
+                "Agriculteurs": 24.8,
+                "Inactifs": 59.5,
+                "Retraités": 46.0,
+                "Élèves / étudiants": 77.7,
+                "Autres inactifs": 51.8,
+                "total": 62.5
+            },
+            {
+                "Année": 2023,
+                "CSP+": 72.4,
+                "Chefs / cadres": 73.2,
+                "Professions intermédiaires": 74.5,
+                "Artisans / commerçants": 59.7,
+                "CSP-": 62.2,
+                "Employés": 67.5,
+                "Ouvriers": 55.2,
+                "Agriculteurs": 56.4,
+                "Inactifs": 60.5,
+                "Retraités": 48.1,
+                "Élèves / étudiants": 80.1,
+                "Autres inactifs": 45.4,
+                "total": 63.7
+            },
+            {
+                "Année": 2024,
+                "CSP+": 75.7,
+                "Chefs / cadres": 77.0,
+                "Professions intermédiaires": 77.4,
+                "Artisans / commerçants": 62.5,
+                "CSP-": 61.9,
+                "Employés": 67.3,
+                "Ouvriers": 56.8,
+                "Agriculteurs": 41.0,
+                "Inactifs": 61.3,
+                "Retraités": 45.2,
+                "Élèves / étudiants": 80.5,
+                "Autres inactifs": 52.2,
+                "total": 64.9
+            }
+        ],
+        "habitat": [
+            {
+                "Année": 2015,
+                "zones rurales": 60.1,
+                "agglo <20k": 69.9,
+                "agglo 20-50k": 65.0,
+                "agglo 50-100k": 63.1,
+                "agglo >100k": 73.6,
+                "agglomération parisienne": 75.7,
+                "total": 68.9
+            },
+            {
+                "Année": 2016,
+                "zones rurales": 62.1,
+                "agglo <20k": 69.7,
+                "agglo 20-50k": 66.8,
+                "agglo 50-100k": 68.2,
+                "agglo >100k": 68.6,
+                "agglomération parisienne": 72.2,
+                "total": 67.8
+            },
+            {
+                "Année": 2017,
+                "zones rurales": 64.5,
+                "agglo <20k": 65.5,
+                "agglo 20-50k": 68.3,
+                "agglo 50-100k": 68.0,
+                "agglo >100k": 67.9,
+                "agglomération parisienne": 73.6,
+                "total": 67.7
+            },
+            {
+                "Année": 2018,
+                "zones rurales": 61.4,
+                "agglo <20k": 66.4,
+                "agglo 20-50k": 61.4,
+                "agglo 50-100k": 63.5,
+                "agglo >100k": 65.9,
+                "agglomération parisienne": 70.7,
+                "total": 65.3
+            },
+            {
+                "Année": 2019,
+                "zones rurales": 67.6,
+                "agglo <20k": 68.5,
+                "agglo 20-50k": 66.3,
+                "agglo 50-100k": 62.4,
+                "agglo >100k": 66.8,
+                "agglomération parisienne": 75.3,
+                "total": 68.3
+            },
+            {
+                "Année": 2020,
+                "zones rurales": 39.4,
+                "agglo <20k": 41.0,
+                "agglo 20-50k": 42.2,
+                "agglo 50-100k": 38.4,
+                "agglo >100k": 44.4,
+                "agglomération parisienne": 53.3,
+                "total": 43.6
+            },
+            {
+                "Année": 2021,
+                "zones rurales": 42.2,
+                "agglo <20k": 46.3,
+                "agglo 20-50k": 50.3,
+                "agglo 50-100k": 52.2,
+                "agglo >100k": 56.9,
+                "agglomération parisienne": 61.6,
+                "total": 51.4
+            },
+            {
+                "Année": 2022,
+                "zones rurales": 56.5,
+                "agglo <20k": 62.2,
+                "agglo 20-50k": 54.8,
+                "agglo 50-100k": 59.7,
+                "agglo >100k": 64.3,
+                "agglomération parisienne": 71.7,
+                "total": 62.5
+            },
+            {
+                "Année": 2023,
+                "zones rurales": 57.9,
+                "agglo <20k": 61.3,
+                "agglo 20-50k": 60.3,
+                "agglo 50-100k": 62.8,
+                "agglo >100k": 66.6,
+                "agglomération parisienne": 70.2,
+                "total": 63.7
+            },
+            {
+                "Année": 2024,
+                "zones rurales": 61.7,
+                "agglo <20k": 60.2,
+                "agglo 20-50k": 63.2,
+                "agglo 50-100k": 62.2,
+                "agglo >100k": 66.7,
+                "agglomération parisienne": 72.6,
+                "total": 64.9
+            }
+        ]
+    },
+    "nombre_spectateurs(millions)": {
+        "genre": [
+            {
+                "Année": 2015,
+                "Femme": 21.8,
+                "Homme": 20.7,
+                "Total": 42.4
+            },
+            {
+                "Année": 2016,
+                "Femme": 21.9,
+                "Homme": 20.6,
+                "Total": 42.5
+            },
+            {
+                "Année": 2017,
+                "Femme": 21.8,
+                "Homme": 20.7,
+                "Total": 42.6
+            },
+            {
+                "Année": 2018,
+                "Femme": 21.2,
+                "Homme": 19.7,
+                "Total": 41.0
+            },
+            {
+                "Année": 2019,
+                "Femme": 22.5,
+                "Homme": 20.4,
+                "Total": 43.0
+            },
+            {
+                "Année": 2020,
+                "Femme": 14.2,
+                "Homme": 13.3,
+                "Total": 27.6
+            },
+            {
+                "Année": 2021,
+                "Femme": 16.9,
+                "Homme": 15.8,
+                "Total": 32.7
+            },
+            {
+                "Année": 2022,
+                "Femme": 21.3,
+                "Homme": 18.6,
+                "Total": 39.9
+            },
+            {
+                "Année": 2023,
+                "Femme": 21.8,
+                "Homme": 19.1,
+                "Total": 40.9
+            },
+            {
+                "Année": 2024,
+                "Femme": 22.3,
+                "Homme": 19.5,
+                "Total": 41.8
+            }
+        ],
+        "age": [
+            {
+                "Année": 2015,
+                "3/10 ans": 4.8,
+                "11/14 ans": 2.7,
+                "15/19 ans": 3.4,
+                "20/24 ans": 3.1,
+                "25/34 ans": 6.0,
+                "35/49 ans": 9.2,
+                "50/59 ans": 5.4,
+                "60 ans et +": 7.8,
+                "Total": 42.4
+            },
+            {
+                "Année": 2016,
+                "3/10 ans": 4.9,
+                "11/14 ans": 2.7,
+                "15/19 ans": 3.4,
+                "20/24 ans": 2.8,
+                "25/34 ans": 5.7,
+                "35/49 ans": 9.2,
+                "50/59 ans": 5.3,
+                "60 ans et +": 8.6,
+                "Total": 42.5
+            },
+            {
+                "Année": 2017,
+                "3/10 ans": 5.0,
+                "11/14 ans": 2.8,
+                "15/19 ans": 3.5,
+                "20/24 ans": 3.0,
+                "25/34 ans": 6.0,
+                "35/49 ans": 9.3,
+                "50/59 ans": 5.2,
+                "60 ans et +": 7.9,
+                "Total": 42.6
+            },
+            {
+                "Année": 2018,
+                "3/10 ans": 4.5,
+                "11/14 ans": 2.8,
+                "15/19 ans": 3.4,
+                "20/24 ans": 2.9,
+                "25/34 ans": 5.3,
+                "35/49 ans": 8.7,
+                "50/59 ans": 5.4,
+                "60 ans et +": 8.1,
+                "Total": 41.0
+            },
+            {
+                "Année": 2019,
+                "3/10 ans": 5.0,
+                "11/14 ans": 2.8,
+                "15/19 ans": 3.5,
+                "20/24 ans": 2.9,
+                "25/34 ans": 5.4,
+                "35/49 ans": 9.5,
+                "50/59 ans": 5.4,
+                "60 ans et +": 8.4,
+                "Total": 43.0
+            },
+            {
+                "Année": 2020,
+                "3/10 ans": 3.0,
+                "11/14 ans": 2.1,
+                "15/19 ans": 2.3,
+                "20/24 ans": 1.9,
+                "25/34 ans": 3.4,
+                "35/49 ans": 5.5,
+                "50/59 ans": 3.5,
+                "60 ans et +": 5.8,
+                "Total": 27.6
+            },
+            {
+                "Année": 2021,
+                "3/10 ans": 4.0,
+                "11/14 ans": 2.4,
+                "15/19 ans": 3.0,
+                "20/24 ans": 2.8,
+                "25/34 ans": 4.1,
+                "35/49 ans": 6.6,
+                "50/59 ans": 3.8,
+                "60 ans et +": 6.1,
+                "Total": 32.7
+            },
+            {
+                "Année": 2022,
+                "3/10 ans": 4.3,
+                "11/14 ans": 2.6,
+                "15/19 ans": 3.4,
+                "20/24 ans": 2.9,
+                "25/34 ans": 5.0,
+                "35/49 ans": 8.0,
+                "50/59 ans": 5.3,
+                "60 ans et +": 8.3,
+                "Total": 39.9
+            },
+            {
+                "Année": 2023,
+                "3/10 ans": 4.4,
+                "11/14 ans": 2.6,
+                "15/19 ans": 3.6,
+                "20/24 ans": 3.2,
+                "25/34 ans": 5.5,
+                "35/49 ans": 8.1,
+                "50/59 ans": 4.7,
+                "60 ans et +": 8.9,
+                "Total": 40.9
+            },
+            {
+                "Année": 2024,
+                "3/10 ans": 4.5,
+                "11/14 ans": 2.8,
+                "15/19 ans": 3.5,
+                "20/24 ans": 3.2,
+                "25/34 ans": 5.1,
+                "35/49 ans": 8.6,
+                "50/59 ans": 5.4,
+                "60 ans et +": 8.8,
+                "Total": 41.8
+            }
+        ],
+        "csp": [
+            {
+                "Année": 2015,
+                "CSP+": 10.9,
+                "Chefs / cadres": 4.2,
+                "Professions intermédiaires": 5.7,
+                "Artisans / commerçants": 1.1,
+                "CSP-": 9.8,
+                "Employés": 5.9,
+                "Ouvriers": 3.7,
+                "Agriculteurs": 0.2,
+                "Inactifs": 21.7,
+                "Retraités": 6.0,
+                "Élèves / étudiants": 12.8,
+                "Autres inactifs": 2.9,
+                "total": 42.4
+            },
+            {
+                "Année": 2016,
+                "CSP+": 11.0,
+                "Chefs / cadres": 4.0,
+                "Professions intermédiaires": 5.7,
+                "Artisans / commerçants": 1.3,
+                "CSP-": 10.3,
+                "Employés": 6.2,
+                "Ouvriers": 4.0,
+                "Agriculteurs": 0.2,
+                "Inactifs": 21.1,
+                "Retraités": 7.1,
+                "Élèves / étudiants": 11.6,
+                "Autres inactifs": 2.4,
+                "total": 42.5
+            },
+            {
+                "Année": 2017,
+                "CSP+": 11.3,
+                "Chefs / cadres": 4.1,
+                "Professions intermédiaires": 6.1,
+                "Artisans / commerçants": 1.1,
+                "CSP-": 10.1,
+                "Employés": 6.0,
+                "Ouvriers": 3.8,
+                "Agriculteurs": 0.4,
+                "Inactifs": 21.1,
+                "Retraités": 6.9,
+                "Élèves / étudiants": 11.7,
+                "Autres inactifs": 2.5,
+                "total": 42.6
+            },
+            {
+                "Année": 2018,
+                "CSP+": 11.0,
+                "Chefs / cadres": 4.1,
+                "Professions intermédiaires": 5.7,
+                "Artisans / commerçants": 1.3,
+                "CSP-": 9.5,
+                "Employés": 5.7,
+                "Ouvriers": 3.5,
+                "Agriculteurs": 0.3,
+                "Inactifs": 20.5,
+                "Retraités": 7.0,
+                "Élèves / étudiants": 11.3,
+                "Autres inactifs": 2.2,
+                "total": 41.0
+            },
+            {
+                "Année": 2019,
+                "CSP+": 11.6,
+                "Chefs / cadres": 4.3,
+                "Professions intermédiaires": 6.0,
+                "Artisans / commerçants": 1.3,
+                "CSP-": 9.5,
+                "Employés": 5.9,
+                "Ouvriers": 3.4,
+                "Agriculteurs": 0.2,
+                "Inactifs": 22.0,
+                "Retraités": 7.2,
+                "Élèves / étudiants": 11.7,
+                "Autres inactifs": 3.0,
+                "total": 43.0
+            },
+            {
+                "Année": 2020,
+                "CSP+": 7.5,
+                "Chefs / cadres": 2.9,
+                "Professions intermédiaires": 3.8,
+                "Artisans / commerçants": 0.7,
+                "CSP-": 5.9,
+                "Employés": 3.6,
+                "Ouvriers": 2.2,
+                "Agriculteurs": 0.1,
+                "Inactifs": 14.2,
+                "Retraités": 4.9,
+                "Élèves / étudiants": 7.7,
+                "Autres inactifs": 1.6,
+                "total": 27.6
+            },
+            {
+                "Année": 2021,
+                "CSP+": 9.1,
+                "Chefs / cadres": 3.8,
+                "Professions intermédiaires": 4.4,
+                "Artisans / commerçants": 0.9,
+                "CSP-": 6.5,
+                "Employés": 4.0,
+                "Ouvriers": 2.3,
+                "Agriculteurs": 0.2,
+                "Inactifs": 17.1,
+                "Retraités": 5.1,
+                "Élèves / étudiants": 10.1,
+                "Autres inactifs": 1.9,
+                "total": 32.7
+            },
+            {
+                "Année": 2022,
+                "CSP+": 10.9,
+                "Chefs / cadres": 4.4,
+                "Professions intermédiaires": 5.5,
+                "Artisans / commerçants": 1.0,
+                "CSP-": 8.3,
+                "Employés": 5.2,
+                "Ouvriers": 3.1,
+                "Agriculteurs": 0.1,
+                "Inactifs": 20.7,
+                "Retraités": 7.2,
+                "Élèves / étudiants": 10.8,
+                "Autres inactifs": 2.8,
+                "total": 39.9
+            },
+            {
+                "Année": 2023,
+                "CSP+": 11.4,
+                "Chefs / cadres": 4.5,
+                "Professions intermédiaires": 5.6,
+                "Artisans / commerçants": 1.0,
+                "CSP-": 8.6,
+                "Employés": 5.3,
+                "Ouvriers": 3.1,
+                "Agriculteurs": 0.2,
+                "Inactifs": 21.2,
+                "Retraités": 7.5,
+                "Élèves / étudiants": 11.2,
+                "Autres inactifs": 2.4,
+                "total": 40.9
+            },
+            {
+                "Année": 2024,
+                "CSP+": 11.6,
+                "Chefs / cadres": 4.6,
+                "Professions intermédiaires": 6.1,
+                "Artisans / commerçants": 1.0,
+                "CSP-": 9.4,
+                "Employés": 5.7,
+                "Ouvriers": 3.5,
+                "Agriculteurs": 0.3,
+                "Inactifs": 20.8,
+                "Retraités": 6.6,
+                "Élèves / étudiants": 11.7,
+                "Autres inactifs": 2.5,
+                "total": 41.8
+            }
+        ],
+        "habitat": [
+            {
+                "Année": 2015,
+                "zones rurales": 8.4,
+                "agglo <20k": 7.5,
+                "agglo 20-50k": 2.5,
+                "agglo 50-100k": 2.8,
+                "agglo >100k": 13.5,
+                "agglomération parisienne": 7.7,
+                "total": 42.4
+            },
+            {
+                "Année": 2016,
+                "zones rurales": 8.8,
+                "agglo <20k": 7.7,
+                "agglo 20-50k": 2.6,
+                "agglo 50-100k": 3.1,
+                "agglo >100k": 12.8,
+                "agglomération parisienne": 7.5,
+                "total": 42.5
+            },
+            {
+                "Année": 2017,
+                "zones rurales": 9.2,
+                "agglo <20k": 7.2,
+                "agglo 20-50k": 2.7,
+                "agglo 50-100k": 3.0,
+                "agglo >100k": 12.8,
+                "agglomération parisienne": 7.7,
+                "total": 42.6
+            },
+            {
+                "Année": 2018,
+                "zones rurales": 8.7,
+                "agglo <20k": 7.3,
+                "agglo 20-50k": 2.5,
+                "agglo 50-100k": 2.8,
+                "agglo >100k": 12.4,
+                "agglomération parisienne": 7.4,
+                "total": 41.0
+            },
+            {
+                "Année": 2019,
+                "zones rurales": 9.5,
+                "agglo <20k": 7.5,
+                "agglo 20-50k": 2.6,
+                "agglo 50-100k": 2.8,
+                "agglo >100k": 12.6,
+                "agglomération parisienne": 7.9,
+                "total": 43.0
+            },
+            {
+                "Année": 2020,
+                "zones rurales": 5.6,
+                "agglo <20k": 4.5,
+                "agglo 20-50k": 1.7,
+                "agglo 50-100k": 1.7,
+                "agglo >100k": 8.4,
+                "agglomération parisienne": 5.6,
+                "total": 27.6
+            },
+            {
+                "Année": 2021,
+                "zones rurales": 6.5,
+                "agglo <20k": 5.3,
+                "agglo 20-50k": 1.9,
+                "agglo 50-100k": 2.4,
+                "agglo >100k": 10.5,
+                "agglomération parisienne": 6.0,
+                "total": 32.7
+            },
+            {
+                "Année": 2022,
+                "zones rurales": 7.7,
+                "agglo <20k": 7.2,
+                "agglo 20-50k": 2.2,
+                "agglo 50-100k": 2.9,
+                "agglo >100k": 12.4,
+                "agglomération parisienne": 7.5,
+                "total": 39.9
+            },
+            {
+                "Année": 2023,
+                "zones rurales": 7.9,
+                "agglo <20k": 7.2,
+                "agglo 20-50k": 2.4,
+                "agglo 50-100k": 3.1,
+                "agglo >100k": 12.9,
+                "agglomération parisienne": 7.4,
+                "total": 40.9
+            },
+            {
+                "Année": 2024,
+                "zones rurales": 8.5,
+                "agglo <20k": 7.1,
+                "agglo 20-50k": 2.5,
+                "agglo 50-100k": 3.1,
+                "agglo >100k": 13.0,
+                "agglomération parisienne": 7.7,
+                "total": 41.8
+            }
+        ]
+    }
+}
